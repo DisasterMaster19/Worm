@@ -2,8 +2,14 @@
 
 Click/Drag the mouse to control Mr. Wormy Face
 
-# Changelog
-View the changes to the game here:
+# Installation
 
-# 1.0.0
-Game Released!
+Windows:
+
+Download and extract the zip file for your computer
+Open Worm.exe
+
+MacOS:
+
+Download and extract the zip file for your computer
+Open Worm.app
